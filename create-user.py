@@ -1,3 +1,14 @@
+/* 
+	Add users program
+
+	Author: Felix Ogundeji
+	Create Date: 10/7/2022
+	Last Modified: 10/7/2022
+	
+	Description: Reads file line by line and adds user to a linux system
+
+*/
+
 #!/usr/bin/python
 import os
 import re
